@@ -31,6 +31,22 @@ migrate_working_dir/
 .pub/
 /build/
 
+.packages
+
+build/
+ios/Pods/
+macos/Pods/
+web/packages/
+windows/Flutter/ephemeral/
+android/.gradle/
+android/app/debug/
+android/app/release/
+android/build/
+android/gradle/
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+macos/Flutter/Flutter.framework/
+
 # Symbolication related
 app.*.symbols
 
